@@ -1,0 +1,70 @@
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\bin\Debug\PingPong.exe
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.Cache
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\obj\Debug\PingPong.exe
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\obj\Debug\PingPong.pdb
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\PingPong\obj\Debug\PingPong.csproj.ResolveComReference.cache
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\obj\Debug\PingPong.csproj.ResolveComReference.cache
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\obj\Debug\PingPong.exe
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\obj\Debug\PingPong.pdb
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\bin\Debug\PingPong.exe
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\obj\Debug\PingPong.Form1.resources
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.Cache
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\obj\Debug\PingPong.csproj.ResolveComReference.cache
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\obj\Debug\PingPong.exe
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\obj\Debug\PingPong.pdb
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\bin\Debug\PingPong.exe
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\obj\Debug\PingPong.Form1.resources
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+C:\Users\Ankred\Desktop\Gry C# Java\Ping - Pong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.Cache
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\obj\Debug\PingPong.csproj.ResolveComReference.cache
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\obj\Debug\PingPong.Form1.resources
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.Cache
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\obj\Debug\PingPong.exe
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\obj\Debug\PingPong.pdb
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\bin\Debug\PingPong.exe.config
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\bin\Debug\PingPong.exe
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\bin\Debug\PingPong.pdb
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\bin\Debug\Interop.WMPLib.dll
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\bin\Debug\AxInterop.WMPLib.dll
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\obj\Debug\Interop.WMPLib.dll
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong\PingPong\obj\Debug\AxInterop.WMPLib.dll
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\bin\Debug\PingPong.exe.config
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\obj\Debug\Interop.WMPLib.dll
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\obj\Debug\AxInterop.WMPLib.dll
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\obj\Debug\PingPong.csproj.ResolveComReference.cache
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\obj\Debug\PingPong.exe
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\obj\Debug\PingPong.pdb
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\bin\Debug\PingPong.exe
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\bin\Debug\PingPong.pdb
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\bin\Debug\Interop.WMPLib.dll
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\bin\Debug\AxInterop.WMPLib.dll
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\obj\Debug\PingPong.Form1.resources
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+E:\Kopia Zapasowa Programów\Gry\Ping - Pong - C#\PingPong\obj\Debug\PingPong.csproj.GenerateResource.Cache
